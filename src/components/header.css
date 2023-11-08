@@ -1,0 +1,83 @@
+ 
+.imgf   {
+background-image: url("../images/tawouksw.png");
+background-position: center;
+background-size: cover ;
+background-repeat: no-repeat;
+}
+
+ 
+.imgfh{
+    min-width:58.0135rem;
+height: 46.28144rem;
+transform: rotate(30.72deg);
+}
+
+@media (max-width:1400px) {
+  .imgb img{
+    width:48.0135rem;
+    height: 36.28144rem;
+
+  }
+}
+
+
+@media (min-width:1400px) {
+   .imgfh{
+    min-width:78.0135rem;
+height: 66.28144rem;
+ }
+ 
+.title-1{
+        font-size: 8.5rem;
+
+}
+
+.title2{
+    font-size: 8.5rem;
+ }
+
+.title-3{
+    font-size: 1.6rem;
+}
+
+ }
+
+
+.imgb img {
+    width: fit-content;
+    height: 100%;
+}
+
+.title-1{
+    font-size: 3.5rem;
+    font-style: normal;
+font-weight: 800;
+line-height: 122%; /* 8.52rem */
+letter-spacing: 0.675rem;
+color: #161616;
+text-align: end;
+}
+.title2{
+    font-size: 5.5rem;
+font-style: normal;
+font-weight: 900;
+line-height: 142%; /* 8.52rem */
+letter-spacing: 0.875rem;
+color: #161616;
+}
+
+.title-3{
+    text-align: justify;
+    text-justify: distribute;
+}
+
+.title{
+    width: 602px;
+    height: 308px;
+}
+
+
+.titleh{
+    height: 90%;
+}

@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "athiti-b";
+    src: url("../font/athiti/Athiti-Bold.ttf")
+}
+
+.athiti{
+    font-family: "athiti-b";
+    font-size: 16px;
+    letter-spacing: 8px;
+    line-height: 110%;
+    font-weight: 700;
+    color: rgb(15, 15, 15);
+}
